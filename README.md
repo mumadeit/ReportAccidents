@@ -1,4 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p>
+For one of my modules at the Global College of Engineering and Technology, I developed a mobile application with CRUD functionality. Using Laravel and Swift UI, I successfully created the app, marking my first venture into iOS app development. I made a mobile application with CRUD functionality for one of my modules at the Global College of Engineering and Technology. I used Laravel and Swift UI to develop the app, and it was my first time creating an iOS app.
+</p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
